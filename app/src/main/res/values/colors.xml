@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="backgroundGray">#848484</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorExtensorPrimary">#00DD90</color>
+    <color name="colorExtensorSecondary">#2C6F21</color>
+    <color name="colorFlexorPrimary">#DD004D</color>
+    <color name="colorFlexorSecondary">#6F212C</color>
+
+    <color name="colorAFlexorPrimary">#ff83c1</color>
+    <color name="colorAFlexorSecondary">#ff379b</color>
+    <color name="colorAExtensorPrimary">#00BCDD</color>
+    <color name="colorAExtensorSecondary">#4169e1</color>
+
+    <color name="colorPrimaryFadeOut">#c4caed</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorFadeOutPrimaryDark">#6271d0</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="myosdk__button_orange">#FF8000</color>
+    <color name="myosdk__button_red">#AE0922</color>
+    <color name="myosdk__indicator_green">#24C75A</color>
+    <color name="myosdk__thalmic_blue">#00BCDD</color>
+    <color name="transparent">#00000000</color>
+    <color name="black">#000000</color>
+</resources>
